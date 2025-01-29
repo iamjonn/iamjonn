@@ -42,6 +42,7 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=MySQL&labelColor=0D1117)&nbsp;
 ![GO](https://img.shields.io/badge/-GO-0D1117?style=for-the-badge&logo=go&labelColor=0D1117)&nbsp;
+![JAVA](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
 
 
 <div align="center">
